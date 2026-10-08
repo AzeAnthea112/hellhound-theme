@@ -9,9 +9,15 @@
     "alpha": 0.0,
     "color": "#5d0101"
   },
-  "semanticColors": {
-    "BACKGROUND_PRIMARY": ["#363737"],
-    "BACKGROUND_SECONDARY": ["#5d0101"],
-    "BACKGROUND_MOBILE_PRIMARY_DARK_THEME": ["#363737"]
+ "semanticColors": {
+    "BACKGROUND_PRIMARY": ["#00000000"],
+    "BACKGROUND_SECONDARY": ["#363737"]
+    "BACKGROUND_TERTIARY": ["#363737"],
+    "BACKGROUND_FLOATING": ["#5d0101"],
+   "BACKGROUND_MODIFIER_SELECTED": ["#5d0101"],
+    "HEADER_PRIMARY": ["#5d0101"],
+    "TEXT_MUTED": ["#363737"],
+    "INTERACTIVE_ACTIVE": ["#D73502"],
+    "INTERACTIVE_NORMAL": ["#5d0101"]
   }
 }
