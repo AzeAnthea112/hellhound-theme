@@ -6,21 +6,21 @@
   "background": {
     "url": "https://cdn.donmai.us/sample/ea/91/__hellhound_monster_girl_encyclopedia_drawn_by_bell_orgel__sample-ea911fdd29fcdcff774d0256bf28482c.jpg",
     "blur": 0,
-    "alpha": 0.0,
+    "alpha": 0.60,
     "color": "#5d0101"
   },
- "semanticColors": {
+  "semanticColors": {
     "BACKGROUND_PRIMARY": ["#00000000"],
-    "BACKGROUND_SECONDARY": ["#363737"]
+    "BACKGROUND_SECONDARY": ["#363737"],
     "BACKGROUND_TERTIARY": ["#363737"],
     "BACKGROUND_FLOATING": ["#5d0101"],
-   "BACKGROUND_MODIFIER_ACCENT": ["#5d0101"],
-   "BACKGROUND_MODIFIER_SELECTED": ["#5d0101"],
-   "BACKGROUND_MESSAGE_HOVER": ["#8B000033"],
-   "BACKGROUND_MESSAGE_HIGHLIGHT": ["#8B000033"],
-   "BACKGROUND_MOBILE_PRIMARY_DARK_THEME": ["#00000000"],
-   "BACKGROUND_MOBILE_SECONDARY_DARK_THEME": ["#363737"],
-   "CHAT_BACKGROUND": ["#00000000"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#5d0101"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#5d0101"],
+    "BACKGROUND_MESSAGE_HOVER": ["#8B000033"],
+    "BACKGROUND_MESSAGE_HIGHLIGHT": ["#8B000033"],
+    "BACKGROUND_MOBILE_PRIMARY_DARK_THEME": ["#00000000"],
+    "BACKGROUND_MOBILE_SECONDARY_DARK_THEME": ["#363737"],
+    "CHAT_BACKGROUND": ["#00000000"],
     "HEADER_PRIMARY": ["#5d0101"],
     "TEXT_MUTED": ["#363737"],
     "INTERACTIVE_ACTIVE": ["#D73502"],
