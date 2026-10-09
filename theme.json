@@ -9,7 +9,17 @@
     "alpha": 0.60,
     "color": "#5d0101"
   },
- "semanticColors": {
+ "rawColors": {
+    "primary_600": "#00000000",
+    "primary_660": "#00000000",
+    "primary_700": "#00000000",
+    "primary_800": "#00000000",
+    "primary_900": "#00000000",
+    "primary_100": "#F5F0FF",
+    "primary_200": "#F5F0FF",
+    "primary_300": "#A694C7"
+  },
+  "semanticColors": {
     "BACKGROUND_PRIMARY": ["#00000000", "#00000000"],
     "BACKGROUND_SECONDARY": ["#00000000", "#00000000"],
     "BACKGROUND_TERTIARY": ["#00000000", "#00000000"],
