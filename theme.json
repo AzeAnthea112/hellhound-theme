@@ -4,7 +4,7 @@
   "author": "VoidFeather",
   "spec": 2,
   "background": {
-    "url": "https://github.com/AzeAnthea112/hellhound-theme/blob/main/__hellhound_monster_girl_encyclopedia_drawn_by_bell_orgel__sample-ea911fdd29fcdcff774d0256bf28482c.jpg?raw=true",
+    "url": "https://github.com",
     "blur": 0,
     "alpha": 0.60,
     "color": "#5d0101"
@@ -19,6 +19,10 @@
     "REDESIGN_CHANNEL_NAME_MUTED_TEXT": ["#A694C7", "#A694C7"],
     "CHANNEL_ICON": ["#5d0101", "#5d0101"],
     "MOBILE_CHANNEL_ITEM_BACKGROUND_SELECTED": ["#5d010166", "#5d010166"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#5d010166", "#5d010166"],
+    "BACKGROUND_MODIFIER_HOVER": ["#8B000080", "#8B000080"],
+    "STATUS_DANGER": ["#8B0000", "#8B0000"],
+    "STATUS_DANGER_BACKGROUND": ["#8B000080", "#8B000080"],
     "MOBILE_CHATINPUT_BACKGROUND_DEFAULT": ["#1C0E36E6", "#1C0E36E6"],
     "MOBILE_CHATINPUT_BACKGROUND_ACTIVE": ["#241245", "#241245"],
     "MOBILE_CHATINPUT_BORDER_DEFAULT": ["#5d0101", "#5d0101"],
